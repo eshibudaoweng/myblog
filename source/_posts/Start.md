@@ -38,7 +38,7 @@ $ npm install
 #### **hexo+git** 在服务器上配置
 创建非root用户账号
 ```
-$ addusr git
+$ sudo addusr git
 ```
 为git用户添加sudo 权限
 ```

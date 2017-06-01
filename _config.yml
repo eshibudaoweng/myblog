@@ -71,7 +71,7 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@kai.oopy.org:hexo.git
+  repo: git@www.dearkai.com:hexo.git
 
 jsonContent:
     meta: false
